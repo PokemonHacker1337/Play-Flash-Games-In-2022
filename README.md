@@ -18,13 +18,20 @@ If you don't feel like having to do much setup, just installing and not worrying
 4: [Flashpoint](https://bluemaxima.org/flashpoint/downloads/) (Windows 7 and above, possible Mac and Linux support)
 Same idea as FGA. It's notable for allowing you to download the entire archive in a 600+ GB file, if you want to have access to all of the games, or just downloading a lightweight version that downloads the games as you play them. 
 
-5: [Clean Flash](https://github.com/CleanFlash/installer) (Windows XP or above, even though you should be at at least 10 by this point.)
+5: [Clean Flash](https://github.com/CleanFlash/installer) (Windows XP or above, even though you should be at at least 10 by this point.):
 This is where things get interesting. According to the linked page, Flash is still actively supported in China, even getting updates every single month. The idea behind this program is that it modifies that specific Flash player to be more usable. However, the problem is that it is not compatible with the latest version of browsers. I would recommend picking up a portable version of Chrome [which you can get from here](https://sourceforge.net/projects/portableapps/files/Google%20Chrome%20Portable/). I personally used 87.0.4280.88, as I believe that is the most recent version where Flash still works (however, the browser blocks it, so you'll have to change the permissions for each website, but the settings still stick). I'm not sure which versions allow using it without having to bypass it in this way without guessing every single version until I find the right one. 
 
 Note: Everything below this is untested by me. I will not give support on anything below this.
 
-6. [Ruffle](https://ruffle.rs/#downloads):
+6: [Ruffle](https://ruffle.rs/#downloads)
 This appears to be an extension to allow playing Flash games on websites that don't already run Ruffle, which is designed as both an extension as well as something website developers can add to play Flash games for free. I can confirm that it works well when it is added to a website, but I cannot confirm how well the extension works as I have never used it.
 
-7. [Supernova](https://www.getsupernova.com/extension/):
+7: [Supernova](https://www.getsupernova.com/extension/)
 Not really sure how this works. It originally was an extension that allows playing games anyway, but I think it's now some kind of player that can be installed. I haven't found a need for this as I already have other methods of playing games, so I never felt a need to try it personally. 
+
+8: [Waterfox](https://www.waterfox.net/download/)
+This was recommended in Clean Flash's README. I haven't tested this, but it appears to be a fork of Firefox that has Flash enabled automatically.
+
+9: [Basilisk](https://basilisk-browser.org/download.shtml):
+Possibly the same idea as Waterfox. This is probably just up to personal preference.
+
