@@ -18,8 +18,9 @@ If you don't feel like having to do much setup, just installing and not worrying
 4: [Flashpoint](https://bluemaxima.org/flashpoint/downloads/) (Windows 7 and above, possible Mac and Linux support)
 Same idea as FGA. It's notable for allowing you to download the entire archive in a 600+ GB file, if you want to have access to all of the games, or just downloading a lightweight version that downloads the games as you play them. 
 
-5: [Clean Flash](https://github.com/CleanFlash/installer) (Windows XP or above, even though you should be at at least 10 by this point.):
+5: [Clean Flash](https://starfiles.co/file/0lvhEV9oldZE/CleanFlash34-0-0-184) (Windows XP or above, even though you should be at at least 10 by this point.):
 This is where things get interesting. According to the linked page, Flash is still actively supported in China, even getting updates every single month. The idea behind this program is that it modifies that specific Flash player to be more usable. However, the problem is that it is not compatible with the latest version of browsers. I would recommend picking up a portable version of Chrome [which you can get from here](https://sourceforge.net/projects/portableapps/files/Google%20Chrome%20Portable/). I personally used 87.0.4280.88, as I believe that is the most recent version where Flash still works (however, the browser blocks it, so you'll have to change the permissions for each website, but the settings still stick). I'm not sure which versions allow using it without having to bypass it in this way without guessing every single version until I find the right one. 
+Update: CleanFlash is no longer hosted on the official repo. I found a mirror on a different website, which I can confirm is the exact same program as the one on the DMCA'd repository, [you may download it here](https://starfiles.co/file/0lvhEV9oldZE/CleanFlash34-0-0-184). Since then, [they have moved to Gitlab](https://gitlab.com/cleanflash/installer), but with no download currently available as of this writing.
 
 Note: Everything below this is untested by me. I will not give support on anything below this.
 
