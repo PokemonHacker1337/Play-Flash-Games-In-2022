@@ -1,4 +1,4 @@
-# Play-Flash-Games-In-2021
+# Play-Flash-Games-In-2022
 
 There are a surprising amount of ways to play Flash games in 2021. I will go through all the options that I am personally aware of in no particular order (except ones I haven't personally tried are on the bottom). 
 
