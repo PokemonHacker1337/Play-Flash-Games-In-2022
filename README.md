@@ -1,6 +1,6 @@
 # Play-Flash-Games-In-2022
 
-There are a surprising amount of ways to play Flash games in 2021. I will go through all the options that I am personally aware of in no particular order (except ones I haven't personally tried are on the bottom). 
+There are a surprising amount of ways to play Flash games in 2022. I will go through all the options that I am personally aware of in no particular order (except ones I haven't personally tried are on the bottom). 
 
 1: The intended method by Adobe.
 The way Adobe intends for you to play them from now on is by using their projector, which essentially acts as an emulator, as long as you have the .swf files to go with them. [Here is a mirror where you can download the official releases for Windows, Mac and Linux](https://github.com/PokemonHacker1337/HackedFlashGames/releases/tag/(InsertVersionHere)). .SWF files can be downloaded from many sources, like from Flashpoint, or even simply going to Google and looking up *insert game name here* swf.
